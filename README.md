@@ -1,12 +1,12 @@
 # 💳 Simple ATM Banking System (C++)
 
-## 📘 Project Overview
+##  Project Overview
 This is a **console-based ATM banking system** built using **C++**.  
 It allows users to perform basic banking operations such as checking balance, depositing, and withdrawing money through a simple menu-driven interface.
 
 ---
 
-## 🧩 Features
+##  Features
 ✅ Display interactive menu  
 ✅ Check account balance  
 ✅ Deposit money  
@@ -15,13 +15,13 @@ It allows users to perform basic banking operations such as checking balance, de
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 1. The program starts with a **default balance** of `$500`.  
 2. The user selects one of the options from the menu:  
-   - **1:** Check balance  
-   - **2:** Deposit  
-   - **3:** Withdraw  
-   - **4:** Exit  
+   - 1:Check balance  
+   - 2: Deposit  
+   - 3: Withdraw  
+   - 4: Exit  
 3. The balance updates automatically after each transaction.  
 
 ---
@@ -70,26 +70,13 @@ int main() {
         }
     } while (option != 4);
 }
-```
 
----
 
-## 🚀 How to Run
+##  How to Run
 1. Copy the code into any C++ IDE (like **Code::Blocks**, **Dev-C++**, or **VS Code**).  
 2. Compile and run the program.  
 3. Choose options from the menu to interact with the ATM system.
 
----
-
-## 📂 Project Structure
-```
-📁 ATM-Banking-System
-│
-├── main.cpp        # Main source code file
-└── README.md       # Project documentation
-```
-
----
 
 ## 🎯 Future Improvements
 🔹 Add PIN authentication  
@@ -97,12 +84,10 @@ int main() {
 🔹 Use file handling to store data  
 🔹 Add multiple user accounts  
 
----
-
 ## 🧑‍💻 Author
 **Mane Tariku**  
 📍 Ethiopia  
-🚀 Aspiring Software Engineer | Data Analyst | Entrepreneur  
+🚀 Aspiring | Data Analyst |
 
 ---
 
@@ -111,7 +96,7 @@ If you like this project, please **star 🌟** the repository and **follow** for
 
 ---
 
-### 🏷️ Short GitHub Description
+### 🏷️ Short Description
 > A simple C++ console-based ATM system to check balance, deposit, and withdraw money. Future upgrades include PIN authentication, file storage, and transaction history.
 
 ### 🔖 Suggested Tags
